@@ -1,0 +1,7202 @@
+[
+ {
+  "incident_id": "INC0001",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-12-31 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 101,
+  "resolution_days": 31,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0002",
+  "oem": "ATHER ENERGY",
+  "date": "2023-07-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1287,
+  "resolution_days": 26,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0003",
+  "oem": "HERO VIDA",
+  "date": "2023-08-12 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1095,
+  "resolution_days": 48,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0004",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-09-01 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 3089,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0005",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-04-12 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 123,
+  "resolution_days": 38,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0006",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-27 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 925,
+  "resolution_days": 43,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0007",
+  "oem": "ATHER ENERGY",
+  "date": "2023-08-06 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 372,
+  "resolution_days": 10,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0008",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-08-23 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 2312,
+  "resolution_days": 44,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0009",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-05 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 76,
+  "resolution_days": 25,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0010",
+  "oem": "HERO VIDA",
+  "date": "2024-07-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 108,
+  "resolution_days": 4,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0011",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-01-12 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 500,
+  "resolution_days": 29,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0012",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-04 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 43,
+  "resolution_days": 31,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0013",
+  "oem": "HERO VIDA",
+  "date": "2024-11-18 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 58,
+  "resolution_days": 118,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0014",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-06-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 140,
+  "resolution_days": 60,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0015",
+  "oem": "ATHER ENERGY",
+  "date": "2023-05-25 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 65,
+  "resolution_days": 12,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0016",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-10 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 407,
+  "resolution_days": 7,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0017",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-06-29 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 2920,
+  "resolution_days": 44,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0018",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-03 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 31,
+  "resolution_days": 21,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0019",
+  "oem": "TVS MOTOR",
+  "date": "2023-05-14 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 195,
+  "resolution_days": 3,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0020",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-27 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 752,
+  "resolution_days": 23,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0021",
+  "oem": "ATHER ENERGY",
+  "date": "2024-01-13 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 339,
+  "resolution_days": 4,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0022",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-22 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 446,
+  "resolution_days": 17,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0023",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-02-26 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 271,
+  "resolution_days": 70,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0024",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-07-27 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 398,
+  "resolution_days": 4,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0025",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-02-08 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1076,
+  "resolution_days": 22,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0026",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-11-06 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 85,
+  "resolution_days": 69,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0027",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-08-12 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 121,
+  "resolution_days": 21,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0028",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-25 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 165,
+  "resolution_days": 14,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0029",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-08-09 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 331,
+  "resolution_days": 64,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0030",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-11-17 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 163,
+  "resolution_days": 22,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0031",
+  "oem": "TVS MOTOR",
+  "date": "2024-02-20 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 4522,
+  "resolution_days": 26,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0032",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-02-15 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 11,
+  "resolution_days": 26,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0033",
+  "oem": "TVS MOTOR",
+  "date": "2024-12-13 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 93,
+  "resolution_days": 37,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0034",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-03-02 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 82,
+  "resolution_days": 16,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0035",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-28 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 703,
+  "resolution_days": 47,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0036",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-24 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 50,
+  "resolution_days": 15,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0037",
+  "oem": "ATHER ENERGY",
+  "date": "2024-03-06 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 3147,
+  "resolution_days": 22,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0038",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-01 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1982,
+  "resolution_days": 19,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0039",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-05-04 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 110,
+  "resolution_days": 18,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0040",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-31 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 227,
+  "resolution_days": 18,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0041",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-11-25 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 64,
+  "resolution_days": 47,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0042",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-06-17 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 178,
+  "resolution_days": 15,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0043",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-11 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 87,
+  "resolution_days": 33,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0044",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-06-12 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 40,
+  "resolution_days": 17,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0045",
+  "oem": "TVS MOTOR",
+  "date": "2024-07-15 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 81,
+  "resolution_days": 27,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0046",
+  "oem": "ATHER ENERGY",
+  "date": "2024-10-25 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 78,
+  "resolution_days": 33,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0047",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-17 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 280,
+  "resolution_days": 23,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0048",
+  "oem": "TVS MOTOR",
+  "date": "2023-10-19 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 432,
+  "resolution_days": 20,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0049",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-03-28 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1073,
+  "resolution_days": 6,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0050",
+  "oem": "TVS MOTOR",
+  "date": "2024-09-06 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 2847,
+  "resolution_days": 15,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0051",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-22 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 60,
+  "resolution_days": 46,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0052",
+  "oem": "ATHER ENERGY",
+  "date": "2024-12-06 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 226,
+  "resolution_days": 18,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0053",
+  "oem": "TVS MOTOR",
+  "date": "2023-05-29 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 107,
+  "resolution_days": 12,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0054",
+  "oem": "HERO VIDA",
+  "date": "2024-07-10 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 36,
+  "resolution_days": 29,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0055",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-09-09 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 20,
+  "resolution_days": 16,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0056",
+  "oem": "ATHER ENERGY",
+  "date": "2023-04-24 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 249,
+  "resolution_days": 38,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0057",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-06-30 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 17,
+  "resolution_days": 32,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0058",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-11-12 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 148,
+  "resolution_days": 32,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0059",
+  "oem": "HERO VIDA",
+  "date": "2024-10-04 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 787,
+  "resolution_days": 17,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0060",
+  "oem": "TVS MOTOR",
+  "date": "2023-10-18 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 21,
+  "resolution_days": 35,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0061",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-04-25 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 219,
+  "resolution_days": 42,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0062",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-06-14 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 190,
+  "resolution_days": 38,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0063",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-02-23 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 8,
+  "resolution_days": 38,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0064",
+  "oem": "HERO VIDA",
+  "date": "2024-01-31 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 223,
+  "resolution_days": 15,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0065",
+  "oem": "TVS MOTOR",
+  "date": "2024-03-06 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 87,
+  "resolution_days": 55,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0066",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-11-02 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 29246,
+  "resolution_days": 44,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0067",
+  "oem": "TVS MOTOR",
+  "date": "2024-07-16 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 75,
+  "resolution_days": 18,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0068",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-08-08 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 126,
+  "resolution_days": 11,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0069",
+  "oem": "ATHER ENERGY",
+  "date": "2023-10-30 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 1156,
+  "resolution_days": 15,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0070",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-05 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 1432,
+  "resolution_days": 63,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0071",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-31 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 756,
+  "resolution_days": 30,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0072",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-06-01 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 153,
+  "resolution_days": 4,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0073",
+  "oem": "HERO VIDA",
+  "date": "2023-01-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 229,
+  "resolution_days": 77,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0074",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-10-11 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 176,
+  "resolution_days": 23,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0075",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-08-25 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 412,
+  "resolution_days": 27,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0076",
+  "oem": "HERO VIDA",
+  "date": "2024-04-27 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 1359,
+  "resolution_days": 8,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0077",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-05-28 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 1075,
+  "resolution_days": 30,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0078",
+  "oem": "HERO VIDA",
+  "date": "2023-09-12 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 362,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0079",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-03-31 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 294,
+  "resolution_days": 14,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0080",
+  "oem": "HERO VIDA",
+  "date": "2024-09-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 263,
+  "resolution_days": 13,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0081",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-24 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 140,
+  "resolution_days": 30,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0082",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-01-29 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 266,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0083",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-17 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 194,
+  "resolution_days": 34,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0084",
+  "oem": "TVS MOTOR",
+  "date": "2023-02-18 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 33,
+  "resolution_days": 84,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0085",
+  "oem": "HERO VIDA",
+  "date": "2023-10-31 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 758,
+  "resolution_days": 17,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0086",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 23,
+  "resolution_days": 33,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0087",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-14 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 72,
+  "resolution_days": 16,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0088",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-05-14 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 1216,
+  "resolution_days": 4,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0089",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-07-28 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 51,
+  "resolution_days": 41,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0090",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-04-11 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 40,
+  "resolution_days": 31,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0091",
+  "oem": "TVS MOTOR",
+  "date": "2023-11-28 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 3939,
+  "resolution_days": 85,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0092",
+  "oem": "TVS MOTOR",
+  "date": "2024-04-22 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 399,
+  "resolution_days": 15,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0093",
+  "oem": "TVS MOTOR",
+  "date": "2023-10-27 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 927,
+  "resolution_days": 19,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0094",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-23 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 505,
+  "resolution_days": 10,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0095",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-08 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 339,
+  "resolution_days": 11,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0096",
+  "oem": "HERO VIDA",
+  "date": "2023-05-31 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1127,
+  "resolution_days": 17,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0097",
+  "oem": "TVS MOTOR",
+  "date": "2024-07-18 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 336,
+  "resolution_days": 26,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0098",
+  "oem": "HERO VIDA",
+  "date": "2023-12-23 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 65,
+  "resolution_days": 9,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0099",
+  "oem": "ATHER ENERGY",
+  "date": "2023-05-22 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 657,
+  "resolution_days": 9,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0100",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-02 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 58,
+  "resolution_days": 15,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0101",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-02-27 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 254,
+  "resolution_days": 9,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0102",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-03-21 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 6259,
+  "resolution_days": 7,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0103",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-01 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 48,
+  "resolution_days": 16,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0104",
+  "oem": "TVS MOTOR",
+  "date": "2023-08-03 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 1007,
+  "resolution_days": 8,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0105",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-11-18 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 1240,
+  "resolution_days": 40,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0106",
+  "oem": "ATHER ENERGY",
+  "date": "2023-09-11 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 436,
+  "resolution_days": 11,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0107",
+  "oem": "HERO VIDA",
+  "date": "2024-07-16 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 539,
+  "resolution_days": 13,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0108",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-01-02 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 120,
+  "resolution_days": 18,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0109",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-02-26 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 267,
+  "resolution_days": 16,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0110",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-09-02 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 14,
+  "resolution_days": 19,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0111",
+  "oem": "TVS MOTOR",
+  "date": "2024-03-21 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 64,
+  "resolution_days": 36,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0112",
+  "oem": "HERO VIDA",
+  "date": "2024-03-22 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 989,
+  "resolution_days": 16,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0113",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-07-23 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 128,
+  "resolution_days": 37,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0114",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-06-23 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 230,
+  "resolution_days": 18,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0115",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-05-05 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 303,
+  "resolution_days": 30,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0116",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-13 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 1369,
+  "resolution_days": 10,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0117",
+  "oem": "HERO VIDA",
+  "date": "2023-09-20 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 23,
+  "resolution_days": 12,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0118",
+  "oem": "HERO VIDA",
+  "date": "2024-09-28 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 760,
+  "resolution_days": 48,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0119",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-02-26 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 4467,
+  "resolution_days": 13,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0120",
+  "oem": "TVS MOTOR",
+  "date": "2024-05-29 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 6907,
+  "resolution_days": 17,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0121",
+  "oem": "HERO VIDA",
+  "date": "2023-02-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 7375,
+  "resolution_days": 34,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0122",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-28 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 91,
+  "resolution_days": 19,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0123",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-14 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 261,
+  "resolution_days": 23,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0124",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-11-10 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 108,
+  "resolution_days": 28,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0125",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-30 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 100,
+  "resolution_days": 18,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0126",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-11-02 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 124,
+  "resolution_days": 11,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0127",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-12 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 420,
+  "resolution_days": 8,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0128",
+  "oem": "TVS MOTOR",
+  "date": "2024-02-15 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 305,
+  "resolution_days": 82,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0129",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-14 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 78,
+  "resolution_days": 14,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0130",
+  "oem": "TVS MOTOR",
+  "date": "2023-08-26 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 371,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0131",
+  "oem": "HERO VIDA",
+  "date": "2023-07-27 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 87,
+  "resolution_days": 27,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0132",
+  "oem": "ATHER ENERGY",
+  "date": "2024-11-21 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 632,
+  "resolution_days": 19,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0133",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-06-29 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1029,
+  "resolution_days": 6,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0134",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-03-14 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 800,
+  "resolution_days": 23,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0135",
+  "oem": "ATHER ENERGY",
+  "date": "2024-09-12 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 543,
+  "resolution_days": 5,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0136",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-12-24 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 3237,
+  "resolution_days": 15,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0137",
+  "oem": "ATHER ENERGY",
+  "date": "2024-07-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 423,
+  "resolution_days": 43,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0138",
+  "oem": "TVS MOTOR",
+  "date": "2023-06-11 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1338,
+  "resolution_days": 64,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0139",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-09 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 228,
+  "resolution_days": 16,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0140",
+  "oem": "HERO VIDA",
+  "date": "2023-09-25 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 876,
+  "resolution_days": 10,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0141",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-16 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1374,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0142",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-01-25 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 342,
+  "resolution_days": 23,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0143",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-10 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 623,
+  "resolution_days": 4,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0144",
+  "oem": "ATHER ENERGY",
+  "date": "2023-01-28 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 591,
+  "resolution_days": 29,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0145",
+  "oem": "ATHER ENERGY",
+  "date": "2024-10-13 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 1425,
+  "resolution_days": 22,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0146",
+  "oem": "ATHER ENERGY",
+  "date": "2024-02-21 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 70,
+  "resolution_days": 37,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0147",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-06-18 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 1025,
+  "resolution_days": 6,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0148",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-12-13 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 849,
+  "resolution_days": 10,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0149",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-16 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 2188,
+  "resolution_days": 4,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0150",
+  "oem": "TVS MOTOR",
+  "date": "2023-01-28 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 772,
+  "resolution_days": 23,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0151",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-05-21 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 1607,
+  "resolution_days": 19,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0152",
+  "oem": "TVS MOTOR",
+  "date": "2024-01-06 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 263,
+  "resolution_days": 13,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0153",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-16 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 639,
+  "resolution_days": 65,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0154",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-10-08 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 48,
+  "resolution_days": 34,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0155",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-02-20 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 302,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0156",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-10-27 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 43,
+  "resolution_days": 30,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0157",
+  "oem": "TVS MOTOR",
+  "date": "2023-08-29 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 3641,
+  "resolution_days": 64,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0158",
+  "oem": "TVS MOTOR",
+  "date": "2024-11-15 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 251,
+  "resolution_days": 5,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0159",
+  "oem": "ATHER ENERGY",
+  "date": "2024-11-01 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 165,
+  "resolution_days": 23,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0160",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-03 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 951,
+  "resolution_days": 19,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0161",
+  "oem": "HERO VIDA",
+  "date": "2023-02-15 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 223,
+  "resolution_days": 25,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0162",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-04-21 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 28,
+  "resolution_days": 16,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0163",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-06-20 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 3202,
+  "resolution_days": 23,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0164",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-17 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 114,
+  "resolution_days": 18,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0165",
+  "oem": "HERO VIDA",
+  "date": "2024-12-27 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 180,
+  "resolution_days": 152,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0166",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-27 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 421,
+  "resolution_days": 19,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0167",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-03-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 74,
+  "resolution_days": 6,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0168",
+  "oem": "TVS MOTOR",
+  "date": "2023-07-14 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 273,
+  "resolution_days": 34,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0169",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-10-25 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 360,
+  "resolution_days": 33,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0170",
+  "oem": "HERO VIDA",
+  "date": "2023-02-04 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 141,
+  "resolution_days": 50,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0171",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-08-16 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 55,
+  "resolution_days": 32,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0172",
+  "oem": "TVS MOTOR",
+  "date": "2024-07-23 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 931,
+  "resolution_days": 13,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0173",
+  "oem": "ATHER ENERGY",
+  "date": "2023-06-23 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 64,
+  "resolution_days": 20,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0174",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-06-22 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 486,
+  "resolution_days": 22,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0175",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 136,
+  "resolution_days": 51,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0176",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-07-08 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 878,
+  "resolution_days": 14,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0177",
+  "oem": "HERO VIDA",
+  "date": "2023-09-29 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1911,
+  "resolution_days": 32,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0178",
+  "oem": "ATHER ENERGY",
+  "date": "2024-05-21 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 465,
+  "resolution_days": 12,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0179",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-20 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 14,
+  "resolution_days": 27,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0180",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-09-05 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 184,
+  "resolution_days": 25,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0181",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-02-25 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 471,
+  "resolution_days": 17,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0182",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-28 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 505,
+  "resolution_days": 17,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0183",
+  "oem": "TVS MOTOR",
+  "date": "2024-04-10 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 30,
+  "resolution_days": 25,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0184",
+  "oem": "HERO VIDA",
+  "date": "2024-01-08 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 102,
+  "resolution_days": 63,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0185",
+  "oem": "TVS MOTOR",
+  "date": "2024-12-19 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 805,
+  "resolution_days": 14,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0186",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-01-24 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 21,
+  "resolution_days": 20,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0187",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-04-12 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 486,
+  "resolution_days": 12,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0188",
+  "oem": "HERO VIDA",
+  "date": "2024-10-30 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 368,
+  "resolution_days": 3,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0189",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-11 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 142,
+  "resolution_days": 21,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0190",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-12-17 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 190,
+  "resolution_days": 6,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0191",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-19 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 153,
+  "resolution_days": 9,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0192",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-10-31 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 659,
+  "resolution_days": 6,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0193",
+  "oem": "ATHER ENERGY",
+  "date": "2024-12-03 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 10,
+  "resolution_days": 7,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0194",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-04-01 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 6,
+  "resolution_days": 9,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0195",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-11-25 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 53,
+  "resolution_days": 12,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0196",
+  "oem": "HERO VIDA",
+  "date": "2023-10-11 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 155,
+  "resolution_days": 22,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0197",
+  "oem": "TVS MOTOR",
+  "date": "2023-06-12 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 195,
+  "resolution_days": 5,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0198",
+  "oem": "TVS MOTOR",
+  "date": "2024-12-21 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 79,
+  "resolution_days": 18,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0199",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-11-25 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 42,
+  "resolution_days": 17,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0200",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-12-13 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 90,
+  "resolution_days": 9,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0201",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-04 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 511,
+  "resolution_days": 7,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0202",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-10-24 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1517,
+  "resolution_days": 7,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0203",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-07-19 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 20,
+  "resolution_days": 3,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0204",
+  "oem": "HERO VIDA",
+  "date": "2024-06-26 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 108,
+  "resolution_days": 21,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0205",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-04-26 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 244,
+  "resolution_days": 58,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0206",
+  "oem": "TVS MOTOR",
+  "date": "2024-12-24 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 15,
+  "resolution_days": 8,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0207",
+  "oem": "ATHER ENERGY",
+  "date": "2024-10-29 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 538,
+  "resolution_days": 3,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0208",
+  "oem": "TVS MOTOR",
+  "date": "2024-02-18 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 59,
+  "resolution_days": 27,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0209",
+  "oem": "HERO VIDA",
+  "date": "2024-03-21 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 7110,
+  "resolution_days": 5,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0210",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-03 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1842,
+  "resolution_days": 32,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0211",
+  "oem": "HERO VIDA",
+  "date": "2024-06-12 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 97,
+  "resolution_days": 32,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0212",
+  "oem": "HERO VIDA",
+  "date": "2024-05-03 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1350,
+  "resolution_days": 27,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0213",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-27 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 393,
+  "resolution_days": 29,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0214",
+  "oem": "HERO VIDA",
+  "date": "2023-03-06 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 56,
+  "resolution_days": 23,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0215",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-06 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 104,
+  "resolution_days": 48,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0216",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-20 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 64,
+  "resolution_days": 22,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0217",
+  "oem": "TVS MOTOR",
+  "date": "2023-07-06 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 5,
+  "resolution_days": 8,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0218",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-05-28 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 19,
+  "resolution_days": 18,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0219",
+  "oem": "TVS MOTOR",
+  "date": "2024-04-12 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 2616,
+  "resolution_days": 97,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0220",
+  "oem": "ATHER ENERGY",
+  "date": "2023-07-21 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 38,
+  "resolution_days": 11,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0221",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-27 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 197,
+  "resolution_days": 10,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0222",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-06 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 526,
+  "resolution_days": 22,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0223",
+  "oem": "TVS MOTOR",
+  "date": "2024-11-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 352,
+  "resolution_days": 81,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0224",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-01-06 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1044,
+  "resolution_days": 17,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0225",
+  "oem": "TVS MOTOR",
+  "date": "2023-07-13 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 325,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0226",
+  "oem": "ATHER ENERGY",
+  "date": "2023-08-16 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 836,
+  "resolution_days": 7,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0227",
+  "oem": "TVS MOTOR",
+  "date": "2024-05-26 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 2509,
+  "resolution_days": 28,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0228",
+  "oem": "ATHER ENERGY",
+  "date": "2024-06-03 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 359,
+  "resolution_days": 22,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0229",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-09-03 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 620,
+  "resolution_days": 14,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0230",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-05-06 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 409,
+  "resolution_days": 16,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0231",
+  "oem": "TVS MOTOR",
+  "date": "2023-04-27 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 421,
+  "resolution_days": 20,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0232",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-02 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 37,
+  "resolution_days": 17,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0233",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 5032,
+  "resolution_days": 17,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0234",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-10-01 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 834,
+  "resolution_days": 58,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0235",
+  "oem": "HERO VIDA",
+  "date": "2024-09-11 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 114,
+  "resolution_days": 64,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0236",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-06-23 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 157,
+  "resolution_days": 20,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0237",
+  "oem": "HERO VIDA",
+  "date": "2023-06-05 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 194,
+  "resolution_days": 6,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0238",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-10-12 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 2918,
+  "resolution_days": 25,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0239",
+  "oem": "ATHER ENERGY",
+  "date": "2023-08-21 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 27,
+  "resolution_days": 23,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0240",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-06-02 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 100,
+  "resolution_days": 150,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0241",
+  "oem": "HERO VIDA",
+  "date": "2024-11-06 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 233,
+  "resolution_days": 14,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0242",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-15 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 335,
+  "resolution_days": 20,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0243",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-21 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 802,
+  "resolution_days": 19,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0244",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-26 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 294,
+  "resolution_days": 37,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0245",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-11 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 403,
+  "resolution_days": 30,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0246",
+  "oem": "TVS MOTOR",
+  "date": "2023-08-22 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 3214,
+  "resolution_days": 79,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0247",
+  "oem": "ATHER ENERGY",
+  "date": "2023-02-23 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 169,
+  "resolution_days": 19,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0248",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-19 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 125,
+  "resolution_days": 13,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0249",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-09-29 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 212,
+  "resolution_days": 12,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0250",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-03 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 282,
+  "resolution_days": 26,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0251",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-24 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 179,
+  "resolution_days": 11,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0252",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-03-26 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 120,
+  "resolution_days": 11,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0253",
+  "oem": "HERO VIDA",
+  "date": "2023-08-15 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 329,
+  "resolution_days": 36,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0254",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-04-04 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 2565,
+  "resolution_days": 11,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0255",
+  "oem": "ATHER ENERGY",
+  "date": "2024-06-21 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 99,
+  "resolution_days": 13,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0256",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-03-26 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 396,
+  "resolution_days": 18,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0257",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-04-15 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 174,
+  "resolution_days": 31,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0258",
+  "oem": "TVS MOTOR",
+  "date": "2023-11-21 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 335,
+  "resolution_days": 25,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0259",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-02 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 43,
+  "resolution_days": 64,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0260",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-04-29 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1634,
+  "resolution_days": 9,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0261",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-07 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 270,
+  "resolution_days": 18,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0262",
+  "oem": "TVS MOTOR",
+  "date": "2024-05-19 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 106,
+  "resolution_days": 11,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0263",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-30 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 7,
+  "resolution_days": 14,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0264",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-06-17 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 36,
+  "resolution_days": 18,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0265",
+  "oem": "ATHER ENERGY",
+  "date": "2024-06-10 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 21,
+  "resolution_days": 13,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0266",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-01-30 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 3926,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0267",
+  "oem": "TVS MOTOR",
+  "date": "2024-06-10 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 24,
+  "resolution_days": 14,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0268",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-08-31 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 550,
+  "resolution_days": 10,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0269",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-11-11 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 134,
+  "resolution_days": 17,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0270",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-08-23 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 144,
+  "resolution_days": 36,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0271",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-07-27 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1162,
+  "resolution_days": 7,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0272",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-18 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 130,
+  "resolution_days": 26,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0273",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-04 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 1030,
+  "resolution_days": 8,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0274",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-08-13 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 187,
+  "resolution_days": 14,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0275",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-06-21 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 816,
+  "resolution_days": 8,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0276",
+  "oem": "ATHER ENERGY",
+  "date": "2024-09-08 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 225,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0277",
+  "oem": "ATHER ENERGY",
+  "date": "2023-12-27 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 97,
+  "resolution_days": 50,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0278",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-06-02 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 933,
+  "resolution_days": 10,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0279",
+  "oem": "TVS MOTOR",
+  "date": "2023-08-13 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 162,
+  "resolution_days": 29,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0280",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-04 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 130,
+  "resolution_days": 8,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0281",
+  "oem": "HERO VIDA",
+  "date": "2024-06-06 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 5,
+  "resolution_days": 28,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0282",
+  "oem": "ATHER ENERGY",
+  "date": "2024-02-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 121,
+  "resolution_days": 15,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0283",
+  "oem": "HERO VIDA",
+  "date": "2024-10-16 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 73,
+  "resolution_days": 15,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0284",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-12-14 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 77,
+  "resolution_days": 14,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0285",
+  "oem": "HERO VIDA",
+  "date": "2024-07-09 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 27,
+  "resolution_days": 42,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0286",
+  "oem": "TVS MOTOR",
+  "date": "2023-12-10 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 106,
+  "resolution_days": 12,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0287",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-11 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 507,
+  "resolution_days": 20,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0288",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-06-26 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 119,
+  "resolution_days": 94,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0289",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-03-10 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 834,
+  "resolution_days": 19,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0290",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-03-23 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 119,
+  "resolution_days": 18,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0291",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-06-25 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 45,
+  "resolution_days": 18,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0292",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-30 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 975,
+  "resolution_days": 17,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0293",
+  "oem": "HERO VIDA",
+  "date": "2023-09-05 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 319,
+  "resolution_days": 39,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0294",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-11-04 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 206,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0295",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-10 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 540,
+  "resolution_days": 35,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0296",
+  "oem": "HERO VIDA",
+  "date": "2023-11-24 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 1767,
+  "resolution_days": 21,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0297",
+  "oem": "HERO VIDA",
+  "date": "2023-12-15 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 136,
+  "resolution_days": 9,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0298",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-04-22 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 196,
+  "resolution_days": 23,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0299",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-17 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 360,
+  "resolution_days": 18,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0300",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-19 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 283,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0301",
+  "oem": "TVS MOTOR",
+  "date": "2023-10-17 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 271,
+  "resolution_days": 49,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0302",
+  "oem": "TVS MOTOR",
+  "date": "2023-04-08 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 756,
+  "resolution_days": 19,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0303",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-03 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 1054,
+  "resolution_days": 9,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0304",
+  "oem": "ATHER ENERGY",
+  "date": "2024-04-24 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 57,
+  "resolution_days": 45,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0305",
+  "oem": "TVS MOTOR",
+  "date": "2024-01-13 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 233,
+  "resolution_days": 20,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0306",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-02-04 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 52,
+  "resolution_days": 17,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0307",
+  "oem": "TVS MOTOR",
+  "date": "2024-04-15 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 69,
+  "resolution_days": 49,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0308",
+  "oem": "TVS MOTOR",
+  "date": "2023-04-04 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 359,
+  "resolution_days": 33,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0309",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-11-04 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 61,
+  "resolution_days": 14,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0310",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-03 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 127,
+  "resolution_days": 17,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0311",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-04-19 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 347,
+  "resolution_days": 4,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0312",
+  "oem": "ATHER ENERGY",
+  "date": "2024-11-03 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1187,
+  "resolution_days": 19,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0313",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-01-29 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 99,
+  "resolution_days": 14,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0314",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-08-18 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 457,
+  "resolution_days": 36,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0315",
+  "oem": "ATHER ENERGY",
+  "date": "2024-12-28 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 198,
+  "resolution_days": 8,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0316",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-24 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 22,
+  "resolution_days": 12,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0317",
+  "oem": "ATHER ENERGY",
+  "date": "2023-04-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 271,
+  "resolution_days": 15,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0318",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-11-06 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 1714,
+  "resolution_days": 34,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0319",
+  "oem": "ATHER ENERGY",
+  "date": "2024-12-04 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 710,
+  "resolution_days": 66,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0320",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-09-09 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 21,
+  "resolution_days": 21,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0321",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-11-26 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 133,
+  "resolution_days": 21,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0322",
+  "oem": "ATHER ENERGY",
+  "date": "2024-05-09 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 811,
+  "resolution_days": 12,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0323",
+  "oem": "TVS MOTOR",
+  "date": "2023-11-30 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 81,
+  "resolution_days": 55,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0324",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-08-04 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 198,
+  "resolution_days": 11,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0325",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-02-20 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 207,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0326",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-08 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 794,
+  "resolution_days": 13,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0327",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-12-23 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1335,
+  "resolution_days": 18,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0328",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-01 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 35,
+  "resolution_days": 28,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0329",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-23 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 114,
+  "resolution_days": 35,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0330",
+  "oem": "ATHER ENERGY",
+  "date": "2024-01-08 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 204,
+  "resolution_days": 36,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0331",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-02 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 393,
+  "resolution_days": 28,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0332",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-03-31 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 99,
+  "resolution_days": 73,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0333",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-15 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 85,
+  "resolution_days": 35,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0334",
+  "oem": "ATHER ENERGY",
+  "date": "2023-06-22 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 443,
+  "resolution_days": 18,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0335",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-13 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 40,
+  "resolution_days": 31,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0336",
+  "oem": "TVS MOTOR",
+  "date": "2024-07-15 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 1488,
+  "resolution_days": 40,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0337",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-02-14 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 528,
+  "resolution_days": 5,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0338",
+  "oem": "ATHER ENERGY",
+  "date": "2023-04-29 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 177,
+  "resolution_days": 16,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0339",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-03-08 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 121,
+  "resolution_days": 9,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0340",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-01-08 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 26,
+  "resolution_days": 9,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0341",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-11-05 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 77,
+  "resolution_days": 13,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0342",
+  "oem": "HERO VIDA",
+  "date": "2023-01-20 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 549,
+  "resolution_days": 21,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0343",
+  "oem": "TVS MOTOR",
+  "date": "2023-09-19 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 152,
+  "resolution_days": 9,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0344",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-02-28 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 203,
+  "resolution_days": 25,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0345",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 535,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0346",
+  "oem": "TVS MOTOR",
+  "date": "2023-07-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1048,
+  "resolution_days": 15,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0347",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-01 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 415,
+  "resolution_days": 15,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0348",
+  "oem": "TVS MOTOR",
+  "date": "2023-02-05 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 73,
+  "resolution_days": 41,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0349",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-06-02 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 101,
+  "resolution_days": 25,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0350",
+  "oem": "HERO VIDA",
+  "date": "2023-11-13 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 326,
+  "resolution_days": 12,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0351",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-07-06 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 185,
+  "resolution_days": 51,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0352",
+  "oem": "HERO VIDA",
+  "date": "2023-07-02 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 174,
+  "resolution_days": 13,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0353",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-07-14 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 185,
+  "resolution_days": 38,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0354",
+  "oem": "ATHER ENERGY",
+  "date": "2023-04-15 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 1067,
+  "resolution_days": 18,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0355",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-07-16 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 3891,
+  "resolution_days": 39,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0356",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-03-07 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 102,
+  "resolution_days": 17,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0357",
+  "oem": "TVS MOTOR",
+  "date": "2024-11-12 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 872,
+  "resolution_days": 55,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0358",
+  "oem": "TVS MOTOR",
+  "date": "2024-07-19 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 28,
+  "resolution_days": 9,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0359",
+  "oem": "TVS MOTOR",
+  "date": "2023-08-29 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 134,
+  "resolution_days": 14,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0360",
+  "oem": "ATHER ENERGY",
+  "date": "2024-01-09 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 130,
+  "resolution_days": 27,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0361",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-30 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 186,
+  "resolution_days": 55,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0362",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-25 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 1504,
+  "resolution_days": 11,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0363",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-09-04 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 157,
+  "resolution_days": 17,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0364",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-12 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 12087,
+  "resolution_days": 6,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0365",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-03 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 20,
+  "resolution_days": 30,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0366",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-02-26 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 660,
+  "resolution_days": 4,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0367",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-12-30 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1443,
+  "resolution_days": 77,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0368",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-20 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 107,
+  "resolution_days": 13,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0369",
+  "oem": "ATHER ENERGY",
+  "date": "2024-09-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 480,
+  "resolution_days": 87,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0370",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-06-26 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 301,
+  "resolution_days": 52,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0371",
+  "oem": "HERO VIDA",
+  "date": "2024-06-01 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 2352,
+  "resolution_days": 60,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0372",
+  "oem": "TVS MOTOR",
+  "date": "2024-12-17 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 921,
+  "resolution_days": 7,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0373",
+  "oem": "HERO VIDA",
+  "date": "2024-06-08 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 445,
+  "resolution_days": 50,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0374",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-11-03 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 313,
+  "resolution_days": 22,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0375",
+  "oem": "TVS MOTOR",
+  "date": "2024-01-28 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 700,
+  "resolution_days": 85,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0376",
+  "oem": "HERO VIDA",
+  "date": "2023-05-23 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 208,
+  "resolution_days": 23,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0377",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-17 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 148,
+  "resolution_days": 9,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0378",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-25 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 514,
+  "resolution_days": 13,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0379",
+  "oem": "TVS MOTOR",
+  "date": "2024-02-12 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 695,
+  "resolution_days": 33,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0380",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-01-28 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 143,
+  "resolution_days": 36,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0381",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-02-17 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 62,
+  "resolution_days": 18,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0382",
+  "oem": "TVS MOTOR",
+  "date": "2023-05-07 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 14,
+  "resolution_days": 14,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0383",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-06 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 14,
+  "resolution_days": 14,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0384",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-12-31 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1056,
+  "resolution_days": 44,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0385",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-04-20 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 1237,
+  "resolution_days": 20,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0386",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-10-23 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 92,
+  "resolution_days": 28,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0387",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-07-05 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 528,
+  "resolution_days": 15,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0388",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-05-26 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 101,
+  "resolution_days": 24,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0389",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-09 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 32,
+  "resolution_days": 22,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0390",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-04 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 233,
+  "resolution_days": 18,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0391",
+  "oem": "ATHER ENERGY",
+  "date": "2024-06-26 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 94,
+  "resolution_days": 13,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0392",
+  "oem": "TVS MOTOR",
+  "date": "2024-06-03 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 3225,
+  "resolution_days": 53,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0393",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-25 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 452,
+  "resolution_days": 11,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0394",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-02-22 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 2999,
+  "resolution_days": 6,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0395",
+  "oem": "ATHER ENERGY",
+  "date": "2024-11-20 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 462,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0396",
+  "oem": "HERO VIDA",
+  "date": "2023-08-26 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 706,
+  "resolution_days": 12,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0397",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-06-02 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 289,
+  "resolution_days": 37,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0398",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-23 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 1517,
+  "resolution_days": 27,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0399",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-17 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 991,
+  "resolution_days": 7,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0400",
+  "oem": "TVS MOTOR",
+  "date": "2023-10-08 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 74,
+  "resolution_days": 24,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0401",
+  "oem": "ATHER ENERGY",
+  "date": "2024-12-29 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 85,
+  "resolution_days": 25,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0402",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-10-28 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 825,
+  "resolution_days": 26,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0403",
+  "oem": "TVS MOTOR",
+  "date": "2023-11-20 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 698,
+  "resolution_days": 25,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0404",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-13 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 149,
+  "resolution_days": 10,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0405",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-02-25 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 789,
+  "resolution_days": 14,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0406",
+  "oem": "ATHER ENERGY",
+  "date": "2024-09-09 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 231,
+  "resolution_days": 15,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0407",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-12-13 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1483,
+  "resolution_days": 45,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0408",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-11-11 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 242,
+  "resolution_days": 17,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0409",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-02-20 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 614,
+  "resolution_days": 15,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0410",
+  "oem": "HERO VIDA",
+  "date": "2024-03-31 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 631,
+  "resolution_days": 30,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0411",
+  "oem": "TVS MOTOR",
+  "date": "2023-08-20 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 295,
+  "resolution_days": 31,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0412",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-16 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 706,
+  "resolution_days": 67,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0413",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-29 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 426,
+  "resolution_days": 24,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0414",
+  "oem": "HERO VIDA",
+  "date": "2023-10-10 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 426,
+  "resolution_days": 7,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0415",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-10-04 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 588,
+  "resolution_days": 20,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0416",
+  "oem": "TVS MOTOR",
+  "date": "2024-10-17 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 164,
+  "resolution_days": 14,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0417",
+  "oem": "TVS MOTOR",
+  "date": "2023-12-24 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 74,
+  "resolution_days": 14,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0418",
+  "oem": "TVS MOTOR",
+  "date": "2024-12-27 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 633,
+  "resolution_days": 53,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0419",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-09-21 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 336,
+  "resolution_days": 6,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0420",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-04 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 3276,
+  "resolution_days": 14,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0421",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-06 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 227,
+  "resolution_days": 22,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0422",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-16 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 19,
+  "resolution_days": 23,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0423",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-09-04 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 500,
+  "resolution_days": 12,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0424",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-10 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 818,
+  "resolution_days": 4,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0425",
+  "oem": "HERO VIDA",
+  "date": "2023-10-20 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1796,
+  "resolution_days": 24,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0426",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-30 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 560,
+  "resolution_days": 36,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0427",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-08-09 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 478,
+  "resolution_days": 42,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0428",
+  "oem": "TVS MOTOR",
+  "date": "2024-06-10 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 351,
+  "resolution_days": 30,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0429",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-11-14 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 212,
+  "resolution_days": 50,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0430",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-07 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 2746,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0431",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-14 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 383,
+  "resolution_days": 29,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0432",
+  "oem": "ATHER ENERGY",
+  "date": "2024-12-09 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 17,
+  "resolution_days": 12,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0433",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-13 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 26,
+  "resolution_days": 29,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0434",
+  "oem": "HERO VIDA",
+  "date": "2023-07-27 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 76,
+  "resolution_days": 14,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0435",
+  "oem": "HERO VIDA",
+  "date": "2023-02-26 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 190,
+  "resolution_days": 12,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0436",
+  "oem": "HERO VIDA",
+  "date": "2024-01-30 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 302,
+  "resolution_days": 23,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0437",
+  "oem": "ATHER ENERGY",
+  "date": "2023-10-16 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 18,
+  "resolution_days": 7,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0438",
+  "oem": "TVS MOTOR",
+  "date": "2024-11-11 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 410,
+  "resolution_days": 16,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0439",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-03-08 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 637,
+  "resolution_days": 22,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0440",
+  "oem": "HERO VIDA",
+  "date": "2023-10-20 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 895,
+  "resolution_days": 32,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0441",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-05-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 368,
+  "resolution_days": 31,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0442",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-08-12 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 100,
+  "resolution_days": 10,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0443",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-01 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 91,
+  "resolution_days": 30,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0444",
+  "oem": "HERO VIDA",
+  "date": "2023-11-16 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 327,
+  "resolution_days": 15,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0445",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-26 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 19,
+  "resolution_days": 33,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0446",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-09-27 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 397,
+  "resolution_days": 36,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0447",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-04-09 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 193,
+  "resolution_days": 11,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0448",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-02-10 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 699,
+  "resolution_days": 32,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0449",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-15 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 118,
+  "resolution_days": 10,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0450",
+  "oem": "HERO VIDA",
+  "date": "2023-02-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 13,
+  "resolution_days": 13,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0451",
+  "oem": "ATHER ENERGY",
+  "date": "2023-06-01 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 357,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0452",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-01-05 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 552,
+  "resolution_days": 12,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0453",
+  "oem": "TVS MOTOR",
+  "date": "2024-09-10 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 67,
+  "resolution_days": 5,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0454",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-05-27 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 252,
+  "resolution_days": 22,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0455",
+  "oem": "TVS MOTOR",
+  "date": "2023-02-15 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1093,
+  "resolution_days": 10,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0456",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-05 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 659,
+  "resolution_days": 26,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0457",
+  "oem": "ATHER ENERGY",
+  "date": "2024-03-05 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 311,
+  "resolution_days": 7,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0458",
+  "oem": "TVS MOTOR",
+  "date": "2023-01-04 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 382,
+  "resolution_days": 42,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0459",
+  "oem": "HERO VIDA",
+  "date": "2024-10-26 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 250,
+  "resolution_days": 6,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0460",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-11-18 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 2306,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0461",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-06-02 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 189,
+  "resolution_days": 6,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0462",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-24 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 329,
+  "resolution_days": 9,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0463",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-03-22 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 34,
+  "resolution_days": 26,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0464",
+  "oem": "TVS MOTOR",
+  "date": "2023-01-28 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 2782,
+  "resolution_days": 18,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0465",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-10-27 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 131,
+  "resolution_days": 17,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0466",
+  "oem": "TVS MOTOR",
+  "date": "2023-04-30 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 776,
+  "resolution_days": 30,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0467",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-02-24 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 630,
+  "resolution_days": 62,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0468",
+  "oem": "TVS MOTOR",
+  "date": "2023-11-12 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 117,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0469",
+  "oem": "HERO VIDA",
+  "date": "2023-01-05 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 223,
+  "resolution_days": 26,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0470",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-06-26 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 79,
+  "resolution_days": 29,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0471",
+  "oem": "HERO VIDA",
+  "date": "2023-05-24 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 219,
+  "resolution_days": 36,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0472",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-17 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 353,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0473",
+  "oem": "HERO VIDA",
+  "date": "2023-12-12 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 257,
+  "resolution_days": 10,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0474",
+  "oem": "TVS MOTOR",
+  "date": "2023-04-04 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 635,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0475",
+  "oem": "TVS MOTOR",
+  "date": "2024-10-31 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1788,
+  "resolution_days": 17,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0476",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-06-06 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 107,
+  "resolution_days": 60,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0477",
+  "oem": "TVS MOTOR",
+  "date": "2023-11-02 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1214,
+  "resolution_days": 24,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0478",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 22,
+  "resolution_days": 23,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0479",
+  "oem": "HERO VIDA",
+  "date": "2023-10-21 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 1758,
+  "resolution_days": 65,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0480",
+  "oem": "HERO VIDA",
+  "date": "2023-07-10 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 455,
+  "resolution_days": 23,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0481",
+  "oem": "HERO VIDA",
+  "date": "2023-10-05 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 480,
+  "resolution_days": 37,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0482",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-11-02 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 707,
+  "resolution_days": 18,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0483",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-04-26 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 646,
+  "resolution_days": 25,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0484",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-09 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 901,
+  "resolution_days": 25,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0485",
+  "oem": "TVS MOTOR",
+  "date": "2023-03-13 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 246,
+  "resolution_days": 60,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0486",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-10-20 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 2263,
+  "resolution_days": 18,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0487",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-06-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 30,
+  "resolution_days": 8,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0488",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-24 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 5337,
+  "resolution_days": 3,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0489",
+  "oem": "ATHER ENERGY",
+  "date": "2024-01-23 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 64,
+  "resolution_days": 40,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0490",
+  "oem": "HERO VIDA",
+  "date": "2023-05-04 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 3,
+  "resolution_days": 8,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0491",
+  "oem": "ATHER ENERGY",
+  "date": "2024-12-22 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 316,
+  "resolution_days": 29,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0492",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-04-25 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 16,
+  "resolution_days": 14,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0493",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-07 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 4041,
+  "resolution_days": 18,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0494",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-06-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 2302,
+  "resolution_days": 76,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0495",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-10-31 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 34,
+  "resolution_days": 17,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0496",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-26 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 529,
+  "resolution_days": 47,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0497",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-11-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 130,
+  "resolution_days": 5,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0498",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-11-09 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 16,
+  "resolution_days": 20,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0499",
+  "oem": "HERO VIDA",
+  "date": "2024-10-21 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 238,
+  "resolution_days": 18,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0500",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-01-03 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 767,
+  "resolution_days": 11,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0501",
+  "oem": "ATHER ENERGY",
+  "date": "2024-01-09 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 174,
+  "resolution_days": 14,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0502",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-11-01 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 194,
+  "resolution_days": 7,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0503",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-12-07 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 971,
+  "resolution_days": 39,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0504",
+  "oem": "ATHER ENERGY",
+  "date": "2024-12-09 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1143,
+  "resolution_days": 22,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0505",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-05-01 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 986,
+  "resolution_days": 11,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0506",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-10-20 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 206,
+  "resolution_days": 53,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0507",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-02-05 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 347,
+  "resolution_days": 23,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0508",
+  "oem": "ATHER ENERGY",
+  "date": "2023-11-05 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 67,
+  "resolution_days": 29,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0509",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-11-09 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 54,
+  "resolution_days": 21,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0510",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-08-22 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 329,
+  "resolution_days": 18,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0511",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-07 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 110,
+  "resolution_days": 16,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0512",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-21 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 186,
+  "resolution_days": 58,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0513",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-19 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 43,
+  "resolution_days": 6,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0514",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-05-02 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 76,
+  "resolution_days": 52,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0515",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-12-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 121,
+  "resolution_days": 8,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0516",
+  "oem": "TVS MOTOR",
+  "date": "2023-02-26 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 358,
+  "resolution_days": 13,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0517",
+  "oem": "HERO VIDA",
+  "date": "2023-02-25 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 487,
+  "resolution_days": 6,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0518",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-17 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 2625,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0519",
+  "oem": "ATHER ENERGY",
+  "date": "2024-02-03 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 304,
+  "resolution_days": 52,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0520",
+  "oem": "HERO VIDA",
+  "date": "2024-08-30 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 2459,
+  "resolution_days": 10,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0521",
+  "oem": "HERO VIDA",
+  "date": "2024-12-04 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 130,
+  "resolution_days": 31,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0522",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-17 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 158,
+  "resolution_days": 7,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0523",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-12-04 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 111,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0524",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-05-20 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 113,
+  "resolution_days": 36,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0525",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-02-22 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 129,
+  "resolution_days": 25,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0526",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-26 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 311,
+  "resolution_days": 31,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0527",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-04-22 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 225,
+  "resolution_days": 5,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0528",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-08 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 317,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0529",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-25 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 557,
+  "resolution_days": 27,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0530",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-25 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 262,
+  "resolution_days": 47,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0531",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-12-11 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 2728,
+  "resolution_days": 29,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0532",
+  "oem": "ATHER ENERGY",
+  "date": "2023-09-23 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 346,
+  "resolution_days": 21,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0533",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-12-14 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 195,
+  "resolution_days": 17,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0534",
+  "oem": "TVS MOTOR",
+  "date": "2024-06-10 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 79,
+  "resolution_days": 30,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0535",
+  "oem": "HERO VIDA",
+  "date": "2023-01-19 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1996,
+  "resolution_days": 13,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0536",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-23 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 375,
+  "resolution_days": 46,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0537",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-08-29 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 240,
+  "resolution_days": 59,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0538",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-02-02 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 408,
+  "resolution_days": 5,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0539",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-05-20 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 116,
+  "resolution_days": 56,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0540",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-12-25 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 187,
+  "resolution_days": 9,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0541",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-10-06 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 29,
+  "resolution_days": 23,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0542",
+  "oem": "HERO VIDA",
+  "date": "2023-12-13 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 27,
+  "resolution_days": 44,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0543",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-11-08 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 644,
+  "resolution_days": 25,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0544",
+  "oem": "HERO VIDA",
+  "date": "2023-12-29 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1640,
+  "resolution_days": 38,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0545",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-03-16 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 128,
+  "resolution_days": 7,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0546",
+  "oem": "HERO VIDA",
+  "date": "2024-03-18 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 316,
+  "resolution_days": 15,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0547",
+  "oem": "ATHER ENERGY",
+  "date": "2023-05-15 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 77,
+  "resolution_days": 4,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0548",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-08-14 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 799,
+  "resolution_days": 57,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0549",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-27 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 1362,
+  "resolution_days": 54,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0550",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-09 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 610,
+  "resolution_days": 2,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0551",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-06-20 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 2500,
+  "resolution_days": 31,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0552",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-04-10 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 150,
+  "resolution_days": 61,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0553",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-07-25 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 85,
+  "resolution_days": 27,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0554",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-11-04 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 48,
+  "resolution_days": 20,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0555",
+  "oem": "ATHER ENERGY",
+  "date": "2023-07-13 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 79,
+  "resolution_days": 24,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0556",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-23 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 407,
+  "resolution_days": 42,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0557",
+  "oem": "TVS MOTOR",
+  "date": "2023-04-27 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 5082,
+  "resolution_days": 13,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0558",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-01-01 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 107,
+  "resolution_days": 32,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0559",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-02-24 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 2561,
+  "resolution_days": 10,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0560",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-06-11 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 205,
+  "resolution_days": 5,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0561",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-10 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 229,
+  "resolution_days": 37,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0562",
+  "oem": "TVS MOTOR",
+  "date": "2024-04-25 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 534,
+  "resolution_days": 16,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0563",
+  "oem": "HERO VIDA",
+  "date": "2023-10-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 808,
+  "resolution_days": 24,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0564",
+  "oem": "HERO VIDA",
+  "date": "2023-10-16 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 88,
+  "resolution_days": 40,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0565",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-01-15 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 596,
+  "resolution_days": 23,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0566",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-08-10 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 639,
+  "resolution_days": 35,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0567",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-06-04 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 15,
+  "resolution_days": 17,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0568",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-13 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 30,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0569",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-22 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 57,
+  "resolution_days": 20,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0570",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-02-10 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 355,
+  "resolution_days": 14,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0571",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-04 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 122,
+  "resolution_days": 37,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0572",
+  "oem": "HERO VIDA",
+  "date": "2024-02-29 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 83,
+  "resolution_days": 49,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0573",
+  "oem": "HERO VIDA",
+  "date": "2023-12-01 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 128,
+  "resolution_days": 16,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0574",
+  "oem": "HERO VIDA",
+  "date": "2023-02-09 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 2510,
+  "resolution_days": 14,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0575",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-04-28 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 121,
+  "resolution_days": 33,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0576",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-11-08 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 370,
+  "resolution_days": 9,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0577",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-03 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 3734,
+  "resolution_days": 29,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0578",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-02-06 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 66,
+  "resolution_days": 11,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0579",
+  "oem": "TVS MOTOR",
+  "date": "2024-08-11 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 60,
+  "resolution_days": 11,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0580",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-04-17 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 40,
+  "resolution_days": 48,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0581",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-03 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 6366,
+  "resolution_days": 48,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0582",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-02 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 43,
+  "resolution_days": 21,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0583",
+  "oem": "ATHER ENERGY",
+  "date": "2023-04-25 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 138,
+  "resolution_days": 27,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0584",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 153,
+  "resolution_days": 9,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0585",
+  "oem": "HERO VIDA",
+  "date": "2023-07-22 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 254,
+  "resolution_days": 11,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0586",
+  "oem": "ATHER ENERGY",
+  "date": "2024-05-14 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 71,
+  "resolution_days": 25,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0587",
+  "oem": "TVS MOTOR",
+  "date": "2023-04-28 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 462,
+  "resolution_days": 62,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0588",
+  "oem": "TVS MOTOR",
+  "date": "2024-04-02 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 95,
+  "resolution_days": 8,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0589",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-30 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 152,
+  "resolution_days": 19,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0590",
+  "oem": "ATHER ENERGY",
+  "date": "2024-01-16 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 47,
+  "resolution_days": 31,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0591",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-01 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 245,
+  "resolution_days": 39,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0592",
+  "oem": "HERO VIDA",
+  "date": "2023-02-20 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 628,
+  "resolution_days": 35,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0593",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-02-25 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 1011,
+  "resolution_days": 52,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0594",
+  "oem": "HERO VIDA",
+  "date": "2024-06-16 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 520,
+  "resolution_days": 12,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0595",
+  "oem": "ATHER ENERGY",
+  "date": "2023-11-16 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 498,
+  "resolution_days": 5,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0596",
+  "oem": "TVS MOTOR",
+  "date": "2024-02-07 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 320,
+  "resolution_days": 11,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0597",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-21 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 169,
+  "resolution_days": 18,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0598",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-18 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 92,
+  "resolution_days": 13,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0599",
+  "oem": "ATHER ENERGY",
+  "date": "2024-01-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 49,
+  "resolution_days": 16,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0600",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-02 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 7,
+  "resolution_days": 16,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0601",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-08-07 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 62,
+  "resolution_days": 18,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0602",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-24 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1719,
+  "resolution_days": 24,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0603",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-09-02 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 373,
+  "resolution_days": 13,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0604",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-07-01 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 49,
+  "resolution_days": 45,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0605",
+  "oem": "ATHER ENERGY",
+  "date": "2023-08-10 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 245,
+  "resolution_days": 21,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0606",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-11-01 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 141,
+  "resolution_days": 14,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0607",
+  "oem": "HERO VIDA",
+  "date": "2024-11-09 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 99,
+  "resolution_days": 6,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0608",
+  "oem": "ATHER ENERGY",
+  "date": "2024-10-01 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 106,
+  "resolution_days": 39,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0609",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-03-05 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 199,
+  "resolution_days": 13,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0610",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-14 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 159,
+  "resolution_days": 16,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0611",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-07-20 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 729,
+  "resolution_days": 11,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0612",
+  "oem": "TVS MOTOR",
+  "date": "2023-07-12 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 2746,
+  "resolution_days": 34,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0613",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-15 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 62,
+  "resolution_days": 64,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0614",
+  "oem": "ATHER ENERGY",
+  "date": "2024-09-16 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 2754,
+  "resolution_days": 8,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0615",
+  "oem": "HERO VIDA",
+  "date": "2024-07-05 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 364,
+  "resolution_days": 33,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0616",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-17 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 268,
+  "resolution_days": 10,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0617",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-05 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 76,
+  "resolution_days": 30,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0618",
+  "oem": "ATHER ENERGY",
+  "date": "2023-06-13 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 219,
+  "resolution_days": 25,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0619",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-05-16 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 19,
+  "resolution_days": 21,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0620",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-07-21 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 42,
+  "resolution_days": 31,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0621",
+  "oem": "TVS MOTOR",
+  "date": "2023-01-07 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 296,
+  "resolution_days": 11,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0622",
+  "oem": "ATHER ENERGY",
+  "date": "2023-01-12 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1486,
+  "resolution_days": 14,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0623",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-06-10 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 339,
+  "resolution_days": 9,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0624",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-04-26 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 854,
+  "resolution_days": 24,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0625",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-18 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 1085,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0626",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-05-26 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 321,
+  "resolution_days": 26,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0627",
+  "oem": "ATHER ENERGY",
+  "date": "2024-08-11 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 104,
+  "resolution_days": 6,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0628",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-02-09 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 134,
+  "resolution_days": 4,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0629",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-12 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 69,
+  "resolution_days": 21,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0630",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-09-14 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 59,
+  "resolution_days": 25,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0631",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-24 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 110,
+  "resolution_days": 34,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0632",
+  "oem": "HERO VIDA",
+  "date": "2023-10-08 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 481,
+  "resolution_days": 16,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0633",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-03 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1505,
+  "resolution_days": 89,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0634",
+  "oem": "ATHER ENERGY",
+  "date": "2023-06-15 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 8550,
+  "resolution_days": 9,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0635",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-31 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 191,
+  "resolution_days": 35,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0636",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-16 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 649,
+  "resolution_days": 8,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0637",
+  "oem": "ATHER ENERGY",
+  "date": "2023-07-31 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 515,
+  "resolution_days": 30,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0638",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-05 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 220,
+  "resolution_days": 11,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0639",
+  "oem": "ATHER ENERGY",
+  "date": "2023-08-24 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 63,
+  "resolution_days": 30,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0640",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-10-24 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 254,
+  "resolution_days": 11,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0641",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-18 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 709,
+  "resolution_days": 27,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0642",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-16 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 448,
+  "resolution_days": 15,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0643",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-02-07 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 249,
+  "resolution_days": 6,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0644",
+  "oem": "TVS MOTOR",
+  "date": "2024-06-04 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 29,
+  "resolution_days": 25,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0645",
+  "oem": "TVS MOTOR",
+  "date": "2024-06-19 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 543,
+  "resolution_days": 19,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0646",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-31 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 102,
+  "resolution_days": 8,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0647",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-08-24 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 15,
+  "resolution_days": 12,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0648",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-02 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 2181,
+  "resolution_days": 34,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0649",
+  "oem": "ATHER ENERGY",
+  "date": "2024-11-05 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 27,
+  "resolution_days": 21,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0650",
+  "oem": "HERO VIDA",
+  "date": "2024-06-30 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 24,
+  "resolution_days": 6,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0651",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-11-09 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 33,
+  "resolution_days": 11,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0652",
+  "oem": "TVS MOTOR",
+  "date": "2024-09-13 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1793,
+  "resolution_days": 45,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0653",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-17 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 370,
+  "resolution_days": 22,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0654",
+  "oem": "ATHER ENERGY",
+  "date": "2024-07-24 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 609,
+  "resolution_days": 12,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0655",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-10-08 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 270,
+  "resolution_days": 9,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0656",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-06 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 480,
+  "resolution_days": 22,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0657",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-04-16 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 2105,
+  "resolution_days": 20,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0658",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-02-12 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 74,
+  "resolution_days": 30,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0659",
+  "oem": "TVS MOTOR",
+  "date": "2023-12-06 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 107,
+  "resolution_days": 19,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0660",
+  "oem": "HERO VIDA",
+  "date": "2023-12-05 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 186,
+  "resolution_days": 12,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0661",
+  "oem": "TVS MOTOR",
+  "date": "2024-07-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 110,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0662",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-09-22 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 178,
+  "resolution_days": 15,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0663",
+  "oem": "TVS MOTOR",
+  "date": "2023-07-20 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1346,
+  "resolution_days": 4,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0664",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-07-20 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1228,
+  "resolution_days": 34,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0665",
+  "oem": "HERO VIDA",
+  "date": "2023-06-14 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 910,
+  "resolution_days": 51,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0666",
+  "oem": "ATHER ENERGY",
+  "date": "2024-09-04 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 660,
+  "resolution_days": 28,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0667",
+  "oem": "HERO VIDA",
+  "date": "2023-11-17 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 257,
+  "resolution_days": 31,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0668",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-06-14 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 1067,
+  "resolution_days": 15,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0669",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1025,
+  "resolution_days": 21,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0670",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-06-24 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 2413,
+  "resolution_days": 51,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0671",
+  "oem": "ATHER ENERGY",
+  "date": "2024-04-24 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 459,
+  "resolution_days": 5,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0672",
+  "oem": "TVS MOTOR",
+  "date": "2024-06-24 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 63,
+  "resolution_days": 41,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0673",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-03-15 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 47,
+  "resolution_days": 62,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0674",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-28 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 153,
+  "resolution_days": 37,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0675",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-05-16 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 153,
+  "resolution_days": 30,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0676",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-10 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 82,
+  "resolution_days": 73,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0677",
+  "oem": "ATHER ENERGY",
+  "date": "2024-05-09 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 238,
+  "resolution_days": 22,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0678",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-08-25 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1320,
+  "resolution_days": 6,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0679",
+  "oem": "HERO VIDA",
+  "date": "2024-12-18 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 111,
+  "resolution_days": 15,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0680",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-02 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 868,
+  "resolution_days": 117,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0681",
+  "oem": "HERO VIDA",
+  "date": "2023-03-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 146,
+  "resolution_days": 16,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0682",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-07-03 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 274,
+  "resolution_days": 29,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0683",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-30 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 211,
+  "resolution_days": 21,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0684",
+  "oem": "ATHER ENERGY",
+  "date": "2023-02-02 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 197,
+  "resolution_days": 10,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0685",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-01-10 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 195,
+  "resolution_days": 28,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0686",
+  "oem": "HERO VIDA",
+  "date": "2023-04-06 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 105,
+  "resolution_days": 14,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0687",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-15 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 625,
+  "resolution_days": 12,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0688",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-11-18 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 2143,
+  "resolution_days": 12,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0689",
+  "oem": "ATHER ENERGY",
+  "date": "2024-10-24 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 380,
+  "resolution_days": 4,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0690",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-26 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 341,
+  "resolution_days": 51,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0691",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-14 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 79,
+  "resolution_days": 41,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0692",
+  "oem": "ATHER ENERGY",
+  "date": "2024-02-26 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 780,
+  "resolution_days": 90,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0693",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-01-16 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 6304,
+  "resolution_days": 13,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0694",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-09-26 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 105,
+  "resolution_days": 11,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0695",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-05-10 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 71,
+  "resolution_days": 12,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0696",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-21 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 31,
+  "resolution_days": 38,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0697",
+  "oem": "HERO VIDA",
+  "date": "2023-08-06 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 86,
+  "resolution_days": 13,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0698",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-15 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 307,
+  "resolution_days": 28,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0699",
+  "oem": "HERO VIDA",
+  "date": "2024-08-22 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1405,
+  "resolution_days": 9,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0700",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-15 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 717,
+  "resolution_days": 26,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0701",
+  "oem": "HERO VIDA",
+  "date": "2024-07-17 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 43,
+  "resolution_days": 20,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0702",
+  "oem": "TVS MOTOR",
+  "date": "2024-11-19 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 566,
+  "resolution_days": 15,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0703",
+  "oem": "HERO VIDA",
+  "date": "2023-08-01 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 6638,
+  "resolution_days": 15,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0704",
+  "oem": "HERO VIDA",
+  "date": "2024-11-22 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 256,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0705",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-03-21 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 276,
+  "resolution_days": 43,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0706",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-05-05 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 44,
+  "resolution_days": 80,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0707",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-06-29 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 204,
+  "resolution_days": 13,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0708",
+  "oem": "HERO VIDA",
+  "date": "2023-06-25 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 804,
+  "resolution_days": 13,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0709",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-11-24 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 971,
+  "resolution_days": 15,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0710",
+  "oem": "HERO VIDA",
+  "date": "2023-04-03 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 1332,
+  "resolution_days": 17,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0711",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-03-31 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 1399,
+  "resolution_days": 20,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0712",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-26 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 294,
+  "resolution_days": 40,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0713",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-06 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 327,
+  "resolution_days": 27,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0714",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-13 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 2673,
+  "resolution_days": 3,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0715",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-29 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 285,
+  "resolution_days": 21,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0716",
+  "oem": "ATHER ENERGY",
+  "date": "2023-11-22 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 38,
+  "resolution_days": 12,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0717",
+  "oem": "HERO VIDA",
+  "date": "2023-03-12 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 289,
+  "resolution_days": 11,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0718",
+  "oem": "HERO VIDA",
+  "date": "2024-01-07 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 454,
+  "resolution_days": 30,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0719",
+  "oem": "TVS MOTOR",
+  "date": "2023-12-16 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 176,
+  "resolution_days": 40,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0720",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-07 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 171,
+  "resolution_days": 8,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0721",
+  "oem": "HERO VIDA",
+  "date": "2024-03-28 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 312,
+  "resolution_days": 21,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0722",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-16 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 72,
+  "resolution_days": 9,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0723",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-05-19 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 354,
+  "resolution_days": 15,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0724",
+  "oem": "ATHER ENERGY",
+  "date": "2024-01-17 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 65,
+  "resolution_days": 38,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0725",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-22 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 104,
+  "resolution_days": 28,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0726",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-08-20 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 1316,
+  "resolution_days": 45,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0727",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-04 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 527,
+  "resolution_days": 24,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0728",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-08-04 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 358,
+  "resolution_days": 30,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0729",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-04-19 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 487,
+  "resolution_days": 14,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0730",
+  "oem": "ATHER ENERGY",
+  "date": "2023-11-12 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 44,
+  "resolution_days": 16,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0731",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-04-05 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 24,
+  "resolution_days": 4,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0732",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-02 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 441,
+  "resolution_days": 21,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0733",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-08-12 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 483,
+  "resolution_days": 21,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0734",
+  "oem": "HERO VIDA",
+  "date": "2023-09-23 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 261,
+  "resolution_days": 27,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0735",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-09-26 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 7,
+  "resolution_days": 17,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0736",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-06-14 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 164,
+  "resolution_days": 6,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0737",
+  "oem": "TVS MOTOR",
+  "date": "2023-09-26 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 247,
+  "resolution_days": 20,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0738",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-03-17 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 199,
+  "resolution_days": 32,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0739",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-08-05 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 38,
+  "resolution_days": 19,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0740",
+  "oem": "TVS MOTOR",
+  "date": "2023-11-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 386,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0741",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-11 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1360,
+  "resolution_days": 32,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0742",
+  "oem": "TVS MOTOR",
+  "date": "2024-02-10 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 264,
+  "resolution_days": 15,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0743",
+  "oem": "ATHER ENERGY",
+  "date": "2023-09-15 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 36,
+  "resolution_days": 13,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0744",
+  "oem": "ATHER ENERGY",
+  "date": "2023-02-26 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 45,
+  "resolution_days": 51,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0745",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-12-25 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 55,
+  "resolution_days": 23,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0746",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-04-21 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 109,
+  "resolution_days": 12,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0747",
+  "oem": "TVS MOTOR",
+  "date": "2023-01-28 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 677,
+  "resolution_days": 46,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0748",
+  "oem": "TVS MOTOR",
+  "date": "2024-07-22 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 525,
+  "resolution_days": 41,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0749",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-06-29 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 301,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0750",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-21 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 80,
+  "resolution_days": 39,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0751",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-20 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 243,
+  "resolution_days": 29,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0752",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-07-15 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 86,
+  "resolution_days": 37,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0753",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-02-01 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 108,
+  "resolution_days": 29,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0754",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-01-14 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 40,
+  "resolution_days": 9,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0755",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-12-28 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 40,
+  "resolution_days": 14,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0756",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-05-07 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 247,
+  "resolution_days": 8,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0757",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-12-07 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 1976,
+  "resolution_days": 3,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0758",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-08-20 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 430,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0759",
+  "oem": "TVS MOTOR",
+  "date": "2023-06-11 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 167,
+  "resolution_days": 8,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0760",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-09-30 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 186,
+  "resolution_days": 20,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0761",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-09-09 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 112,
+  "resolution_days": 27,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0762",
+  "oem": "HERO VIDA",
+  "date": "2023-06-23 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 1072,
+  "resolution_days": 6,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0763",
+  "oem": "TVS MOTOR",
+  "date": "2024-01-04 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 11,
+  "resolution_days": 27,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0764",
+  "oem": "HERO VIDA",
+  "date": "2023-02-22 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 41,
+  "resolution_days": 15,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0765",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-12-07 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 509,
+  "resolution_days": 18,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0766",
+  "oem": "ATHER ENERGY",
+  "date": "2024-11-15 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 58,
+  "resolution_days": 17,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0767",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-04-13 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 189,
+  "resolution_days": 9,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0768",
+  "oem": "TVS MOTOR",
+  "date": "2024-07-13 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 87,
+  "resolution_days": 47,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0769",
+  "oem": "HERO VIDA",
+  "date": "2023-11-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 166,
+  "resolution_days": 35,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0770",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-10-14 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 190,
+  "resolution_days": 27,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0771",
+  "oem": "TVS MOTOR",
+  "date": "2023-03-05 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 30,
+  "resolution_days": 214,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0772",
+  "oem": "HERO VIDA",
+  "date": "2023-08-19 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 30,
+  "resolution_days": 23,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0773",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-10-06 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 1026,
+  "resolution_days": 28,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0774",
+  "oem": "ATHER ENERGY",
+  "date": "2023-11-12 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 1368,
+  "resolution_days": 20,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0775",
+  "oem": "OLA ELECTRIC",
+  "date": "2024-06-04 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 183,
+  "resolution_days": 17,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0776",
+  "oem": "ATHER ENERGY",
+  "date": "2024-12-22 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 394,
+  "resolution_days": 29,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0777",
+  "oem": "TVS MOTOR",
+  "date": "2023-02-09 00:00:00",
+  "incident_type": "Fire Incident",
+  "units_affected": 611,
+  "resolution_days": 25,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0778",
+  "oem": "ATHER ENERGY",
+  "date": "2023-07-07 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 330,
+  "resolution_days": 23,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0779",
+  "oem": "TVS MOTOR",
+  "date": "2024-01-16 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 71,
+  "resolution_days": 64,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0780",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-03-19 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 20,
+  "resolution_days": 16,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0781",
+  "oem": "TVS MOTOR",
+  "date": "2023-07-01 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 509,
+  "resolution_days": 10,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0782",
+  "oem": "TVS MOTOR",
+  "date": "2024-04-27 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 230,
+  "resolution_days": 20,
+  "source": "News Report"
+ },
+ {
+  "incident_id": "INC0783",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-11-11 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 1053,
+  "resolution_days": 15,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0784",
+  "oem": "HERO VIDA",
+  "date": "2023-08-20 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 68,
+  "resolution_days": 7,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0785",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-04-27 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 51,
+  "resolution_days": 29,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0786",
+  "oem": "TVS MOTOR",
+  "date": "2024-09-02 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 1417,
+  "resolution_days": 30,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0787",
+  "oem": "BAJAJ AUTO",
+  "date": "2023-09-28 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 762,
+  "resolution_days": 11,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0788",
+  "oem": "ATHER ENERGY",
+  "date": "2023-07-22 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 61,
+  "resolution_days": 22,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0789",
+  "oem": "HERO VIDA",
+  "date": "2024-05-07 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 13,
+  "resolution_days": 51,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0790",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-05-25 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 952,
+  "resolution_days": 30,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0791",
+  "oem": "ATHER ENERGY",
+  "date": "2024-01-29 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 687,
+  "resolution_days": 27,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0792",
+  "oem": "ATHER ENERGY",
+  "date": "2023-10-26 00:00:00",
+  "incident_type": "Regulatory Notice",
+  "units_affected": 40,
+  "resolution_days": 13,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0793",
+  "oem": "AMPERE GREAVES",
+  "date": "2024-10-04 00:00:00",
+  "incident_type": "Charger Fault",
+  "units_affected": 105,
+  "resolution_days": 32,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0794",
+  "oem": "HERO VIDA",
+  "date": "2024-03-29 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 128,
+  "resolution_days": 38,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0795",
+  "oem": "AMPERE GREAVES",
+  "date": "2023-11-24 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 134,
+  "resolution_days": 9,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0796",
+  "oem": "BAJAJ AUTO",
+  "date": "2024-07-29 00:00:00",
+  "incident_type": "Recall",
+  "units_affected": 482,
+  "resolution_days": 12,
+  "source": "MoRTH"
+ },
+ {
+  "incident_id": "INC0797",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-01-22 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 111,
+  "resolution_days": 11,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0798",
+  "oem": "OLA ELECTRIC",
+  "date": "2023-05-16 00:00:00",
+  "incident_type": "Service Backlog",
+  "units_affected": 80,
+  "resolution_days": 33,
+  "source": "OEM Statement"
+ },
+ {
+  "incident_id": "INC0799",
+  "oem": "TVS MOTOR",
+  "date": "2023-06-02 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 555,
+  "resolution_days": 14,
+  "source": "Consumer Forum"
+ },
+ {
+  "incident_id": "INC0800",
+  "oem": "ATHER ENERGY",
+  "date": "2023-09-28 00:00:00",
+  "incident_type": "Software Bug",
+  "units_affected": 240,
+  "resolution_days": 19,
+  "source": "Consumer Forum"
+ }
+]
